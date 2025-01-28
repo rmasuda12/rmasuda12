@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a recent grad with an MSc in biomedical engineering. Currently learning software development to combine my interests in tech and biomedical sciences!
 
-🔭 I’m currently learning React Native
+- 🌱 I’m currently learning React Native and Data Science Basics
