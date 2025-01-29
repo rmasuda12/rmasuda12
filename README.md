@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a recent grad with an MSc in biomedical engineering. Currently learning software development with @BrainStation to combine my interests in tech and biomedical sciences!
+I'm a recent grad with an MSc in biomedical engineering with an interest in the intersection of health x tech. Currently learning software engineering to combine my interests and build products to create meaningful solutions! 
 
-- 🌱 I’m currently learning React Native and Data Science Basics
+Currently I'm...
+- 🌱  Learning React Native and Data Science basics
+- 🔭  Building a habit tracking app
+
+Beyond work, I love...
+- 🏋  Exercise: Currently Weightlifting, playing soccer, learning judo, and practicing yoga
+- 🙌  Community Building: Currently cultivating a study with me / habit building community
+- 🌎  Adventure: I've lived in Canada, US, and Japan which have fostered curiosity for different cultures
