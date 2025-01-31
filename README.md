@@ -18,12 +18,12 @@ I'm a recent grad with an MSc in biomedical engineering with an interest in the 
 
 Currently I'm...
 - 🌱  Learning React Native and Data Science basics
-- 🔭  Building a habit tracking app
+- 🔭  Building, Networking, and Hacking!
 
 Hobbies: 
-- 🏋  Exercise: Currently Weightlifting, playing soccer, learning judo, and practicing yoga
-- 🙌  Community Building: Currently cultivating a study with me / habit building community
-
+- 🏋  Exercise: Weightlifting, playing soccer, learning judo, and practicing yoga
+- 🙌  Community Work: cultivating a study with me / habit building community
+- 
 
 ### My GitHub Stats
 
