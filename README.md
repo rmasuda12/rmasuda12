@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 I'm a recent grad with an MSc in biomedical engineering with an interest in the intersection of science x tech. Now, I'm learning software engineering to combine my interests and build products to create meaningful solutions! 
 
 Currently I'm...
-- 🌱  Learning React Native and Data Science basics
-- 🔭  Building, Networking, and Hacking!
+- 🌱  Learning React Native, Next.js, and Data Science basics
+- 🛠️  Building my portfolio website and a habit tracker
+- 🔭  Attending networking events and hackathons
 
 Hobbies: 
 - 🏋  Exercise: Weightlifting, playing soccer, learning judo, and practicing yoga
