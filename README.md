@@ -26,6 +26,4 @@ Hobbies:
 
 ### My GitHub Stats
 
-<a href="https://git.io/streak-stats" align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=rmasuda12&theme=dark" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rmasuda12&theme=dark)](https://git.io/streak-stats)
