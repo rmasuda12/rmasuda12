@@ -20,9 +20,12 @@ Currently I'm...
 - 🌱  Learning React Native and Data Science basics
 - 🔭  Building a habit tracking app
 
-Beyond work, I love...
+Hobbies: 
 - 🏋  Exercise: Currently Weightlifting, playing soccer, learning judo, and practicing yoga
 - 🙌  Community Building: Currently cultivating a study with me / habit building community
-- 🌎  Adventure: I've lived in Canada, US, and Japan which have fostered curiosity for different cultures
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rmasuda12&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+<a href="https://git.io/streak-stats" align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=rmasuda12&theme=dark" alt="GitHub Streak" />
+</a>
+</div>
