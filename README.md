@@ -24,7 +24,10 @@ Hobbies:
 - 🏋  Exercise: Currently Weightlifting, playing soccer, learning judo, and practicing yoga
 - 🙌  Community Building: Currently cultivating a study with me / habit building community
 
-<div align="center">
+
+### My GitHub Stats
+
+<div>
 <a href="https://git.io/streak-stats" align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=rmasuda12&theme=dark" alt="GitHub Streak" />
 </a>
