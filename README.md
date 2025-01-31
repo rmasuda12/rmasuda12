@@ -23,7 +23,6 @@ Currently I'm...
 Hobbies: 
 - 🏋  Exercise: Weightlifting, playing soccer, learning judo, and practicing yoga
 - 🙌  Community Work: cultivating a study with me / habit building community
-- 
 
 ### My GitHub Stats
 
