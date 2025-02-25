@@ -22,8 +22,5 @@ Currently I'm...
 - 🔭  Attending networking events and [hackathons](https://devpost.com/masudarinta?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 Hobbies: 
-- 🏋  Exercise: Weightlifting, playing soccer, learning judo, and practicing yoga
-- 🙌  Community Work: Cultivating a habit building community on social media
-
-### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=rmasuda12&theme=dark)](https://git.io/streak-stats)
+- 🏋  Exercise: Weightlifting, playing soccer, and practicing yoga
+- 🙌  Community Work: volunteering and cultivating a habit building community online
