@@ -18,7 +18,7 @@ I'm a recent grad with an MSc in biomedical engineering with an interest in the 
 
 Currently I'm...
 - 🌱  Learning React Native, Next.js, and Data Science basics
-- 🛠️  Building my [portfolio website](https://rintaro-masuda.vercel.app) and [nomad](https://www.nomadworld.ai)
+- 🛠️  Building my [portfolio website](https://rintaro-masuda.vercel.app) and a mobile health app
 - 🔭  Attending networking events and [hackathons](https://devpost.com/masudarinta?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 Hobbies: 
