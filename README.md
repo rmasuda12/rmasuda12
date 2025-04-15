@@ -22,5 +22,5 @@ Currently I'm...
 - 🔭  Attending networking events and [hackathons](https://devpost.com/masudarinta?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 Hobbies: 
-- 🏋  Exercise: Weightlifting, playing soccer, and practicing yoga
+- 🏋  Exercise: Weightlifting, playing soccer, practicing yoga, and running
 - 🙌  Community Work: volunteering and cultivating a habit building community online
